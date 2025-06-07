@@ -1,0 +1,22 @@
+# Go
+/bin/
+/vendor/
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+*.test
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# GoLand
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
